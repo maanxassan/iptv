@@ -18,6 +18,6 @@ https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Somali" tvg-logo="http://somdromo.com/wp-content/uploads/2018/07/somnews-tv.png" tvg-country="SO" tvg-url="" group-title="News",SomNews TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Somali" tvg-logo="https://www.universaltvsomali.net/themes/tvuniversal/images/logo_badge.png" tvg-country="SO" tvg-url="" group-title="",Universal TV
 https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
-#EXTINF:-1,FATAFEAT_Cunto
-http://mhiptv.com:8888/live/eldeeba7/564452002/3871.m3u8
+#EXTINF:-1Somali BBC Audio
+https://polling.bbc.co.uk/ws/av-embeds/media/bbc_somali_radio/liveradio/so
 #EXTINF:-1,########## Somali Channels ##########
